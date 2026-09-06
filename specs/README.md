@@ -1,1 +1,1 @@
-This folder contains specifications (input for agents)"
+This folder contains specifications (input for agents)
